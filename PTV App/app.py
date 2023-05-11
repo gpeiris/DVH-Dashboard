@@ -33,7 +33,7 @@ app.layout = html.Div(children=[
 		children=[
 			html.Div(className='three columns div-user-controls',
 				children=[
-					html.H2('Box Plots For All Targets'),
+					html.H2('Leaf Width Impact on Dose Distribution'),
 					html.P('''Pick one or more anatomical site to display'''),
 					html.Div(className='div-for-dropdown',
 						children=[
